@@ -1,0 +1,42 @@
+[
+  {
+    "id": "personal-loan",
+    "name": "Personal Loan",
+    "description": "Quick unsecured loan for personal needs",
+    "interestRate": 12.5,
+    "minAmount": 10000,
+    "maxAmount": 500000,
+    "minTenureMonths": 6,
+    "maxTenureMonths": 60
+  },
+  {
+    "id": "home-loan",
+    "name": "Home Loan",
+    "description": "Loan for buying or constructing a house",
+    "interestRate": 8.4,
+    "minAmount": 500000,
+    "maxAmount": 20000000,
+    "minTenureMonths": 60,
+    "maxTenureMonths": 360
+  },
+  {
+    "id": "car-loan",
+    "name": "Car Loan",
+    "description": "Finance for a new or used car",
+    "interestRate": 9.2,
+    "minAmount": 100000,
+    "maxAmount": 3000000,
+    "minTenureMonths": 12,
+    "maxTenureMonths": 84
+  },
+  {
+    "id": "education-loan",
+    "name": "Education Loan",
+    "description": "Loan for higher studies",
+    "interestRate": 10.0,
+    "minAmount": 50000,
+    "maxAmount": 4000000,
+    "minTenureMonths": 12,
+    "maxTenureMonths": 120
+  }
+]

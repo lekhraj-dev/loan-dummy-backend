@@ -1,0 +1,15 @@
+[
+  {
+    "id": "dc4120b8-72cc-46b6-806a-dbb65cc46631",
+    "userId": "u1",
+    "loanId": "personal-loan",
+    "loanName": "Personal Loan",
+    "amount": 200000,
+    "tenureMonths": 24,
+    "interestRate": 12.5,
+    "emi": 9461.46,
+    "purpose": "Wedding",
+    "status": "PENDING",
+    "appliedAt": "2026-11-18T08:04:17.394Z"
+  }
+]
