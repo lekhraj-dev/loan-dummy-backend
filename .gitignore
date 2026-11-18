@@ -1,7 +1,3 @@
 node_modules
 dist
-<<<<<<< HEAD
 tsconfig.tsbuildinfo
-=======
-tsconfig.tsbuildinfo
->>>>>>> 6f051c1 (Initial commit: NestJS loan API)
